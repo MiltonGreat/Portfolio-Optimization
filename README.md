@@ -14,19 +14,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Monte Carlo Simulations:** Estimated expected returns and risk profiles for different portfolio allocations.
 - **Risk Management Strategies:** Compared Equal Weight vs. Risk-Parity portfolios to assess diversification benefits.
 
-### 2. Market Microstructure & High-Frequency Trading
-
-**Dataset:** Limit Order Book Data for High-Frequency Trading
-
-**Description:** This dataset provides detailed order book data, making it valuable for analyzing market microstructure, bid-ask spreads, and execution dynamics.
-
-**What I Did in the Project:**
-
-- **Market Depth & Liquidity Analysis:** Studied order book imbalances and liquidity variations.
-- **Short-Term Price Prediction:** Used LSTM models to forecast stock price movements at the millisecond level.
-- **Latency Arbitrage Detection:** Analyzed execution speeds to identify trading inefficiencies.
-
-### 3. Stress Testing & Scenario Analysis
+### 2. Stress Testing & Scenario Analysis
 
 **Dataset:** Global Financial Crises Dataset
 
@@ -38,7 +26,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Credit Risk Impact Analysis:** Studied loan default probabilities under extreme economic conditions.
 - **Risk Measurement:** Applied Value-at-Risk (VaR) and Expected Shortfall modeling to quantify potential losses.
 
-### 4. Algorithmic Trading Strategies
+### 3. Algorithmic Trading Strategies
 
 **Dataset:** Intraday Stock Market Data
 
@@ -50,7 +38,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Reinforcement Learning for Trading Bots:** Implemented Deep Q-Learning (DQL) models for automated trading.
 - **Mean Reversion Strategy Analysis:** Examined price deviations from moving averages to identify profitable reversion trades.
 
-### 5. Alternative Data & Sentiment Analysis in Finance
+### 4. Alternative Data & Sentiment Analysis in Finance
 
 **Dataset:** Financial News Headlines
 
@@ -62,7 +50,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **News Impact on Stock Prices:** Conducted event-based analysis to measure stock reactions to breaking news.
 - **News-Driven Trading Strategies:** Built LSTM models for predicting price movements based on sentiment scores.
 
-### 6. Financial Fraud Detection Beyond Anomalies
+### 5. Financial Fraud Detection Beyond Anomalies
 
 **Dataset:** Synthetic Financial Transactions
 
@@ -74,7 +62,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Coordinated Fraud Ring Analysis:** Detected collusive behaviors in banking transactions.
 - **Ensemble Learning for Risk Scoring:** Combined Isolation Forests and XGBoost to improve fraud detection accuracy.
 
-### 7. Explainable AI in Finance (XAI)
+### 6. Explainable AI in Finance (XAI)
 
 **Dataset:** Home Credit Default Risk
 
@@ -86,7 +74,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Feature Importance Analysis:** Analyzed how income, credit history, and employment status impact loan risk.
 - **LIME for Model Interpretability:** Applied LIME (Local Interpretable Model-Agnostic Explanations) to validate credit risk predictions.
 
-### 8. ESG (Environmental, Social, and Governance) Investing
+### 7. ESG (Environmental, Social, and Governance) Investing
 
 **Dataset:** ESG Risk Ratings Dataset
 
