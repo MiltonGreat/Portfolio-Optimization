@@ -26,19 +26,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Credit Risk Impact Analysis:** Studied loan default probabilities under extreme economic conditions.
 - **Risk Measurement:** Applied Value-at-Risk (VaR) and Expected Shortfall modeling to quantify potential losses.
 
-### 3. Algorithmic Trading Strategies
-
-**Dataset:** Intraday Stock Market Data
-
-**Description:** This dataset contains tick-level stock market data, making it ideal for developing and backtesting algorithmic trading strategies.
-
-**What I Did in the Project:**
-
-- **Momentum Trading Backtesting:** Evaluated short-term price momentum strategies using historical data.
-- **Reinforcement Learning for Trading Bots:** Implemented Deep Q-Learning (DQL) models for automated trading.
-- **Mean Reversion Strategy Analysis:** Examined price deviations from moving averages to identify profitable reversion trades.
-
-### 4. Alternative Data & Sentiment Analysis in Finance
+### 3. Alternative Data & Sentiment Analysis in Finance
 
 **Dataset:** Financial News Headlines
 
@@ -50,7 +38,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **News Impact on Stock Prices:** Conducted event-based analysis to measure stock reactions to breaking news.
 - **News-Driven Trading Strategies:** Built LSTM models for predicting price movements based on sentiment scores.
 
-### 5. Financial Fraud Detection Beyond Anomalies
+### 4. Financial Fraud Detection Beyond Anomalies
 
 **Dataset:** Synthetic Financial Transactions
 
@@ -62,7 +50,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Coordinated Fraud Ring Analysis:** Detected collusive behaviors in banking transactions.
 - **Ensemble Learning for Risk Scoring:** Combined Isolation Forests and XGBoost to improve fraud detection accuracy.
 
-### 6. Explainable AI in Finance (XAI)
+### 5. Explainable AI in Finance (XAI)
 
 **Dataset:** Home Credit Default Risk
 
@@ -74,7 +62,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Feature Importance Analysis:** Analyzed how income, credit history, and employment status impact loan risk.
 - **LIME for Model Interpretability:** Applied LIME (Local Interpretable Model-Agnostic Explanations) to validate credit risk predictions.
 
-### 7. ESG (Environmental, Social, and Governance) Investing
+### 6. ESG (Environmental, Social, and Governance) Investing
 
 **Dataset:** ESG Risk Ratings Dataset
 
