@@ -95,5 +95,4 @@ This repository shows projects that deal with portfolio management, trading stra
 **What I Did in the Project:**
 
 - **ESG Risk Score Prediction:** Built regression models to forecast ESG scores for companies.
-- **Impact of ESG Factors on Stock Performance:** Analyzed how sustainability metrics affect financial returns.
 - **NLP for ESG Insights:** Used earnings call transcripts to extract ESG-related sentiment using natural language processing.
