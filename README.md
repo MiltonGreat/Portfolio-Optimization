@@ -58,7 +58,7 @@ This repository shows projects that deal with portfolio management, trading stra
 
 **What I Did in the Project:**
 
-- **SHAP-Based Credit Scoring:** Used SHAP values to explain key factors influencing loan approvals.
+- **[SHAP-Based Credit Scoring:](https://github.com/MiltonGreat/SHAP-Based-Credit-Scoring.git)** Used SHAP values to explain key factors influencing loan approvals.
 - **Feature Importance Analysis:** Analyzed how income, credit history, and employment status impact loan risk.
 - **LIME for Model Interpretability:** Applied LIME (Local Interpretable Model-Agnostic Explanations) to validate credit risk predictions.
 
