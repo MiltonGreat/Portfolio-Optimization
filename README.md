@@ -35,7 +35,6 @@ This repository shows projects that deal with portfolio management, trading stra
 
 - **Sentiment Analysis & Market Signals:** Applied NLP models to classify news as bullish, bearish, or neutral.
 - **News Impact on Stock Prices:** Conducted event-based analysis to measure stock reactions to breaking news.
-- **News-Driven Trading Strategies:** Built LSTM models for predicting price movements based on sentiment scores.
 
 ### 4. Financial Fraud Detection Beyond Anomalies
 
