@@ -21,7 +21,7 @@ This repository shows projects that deal with portfolio management, trading stra
 
 **What I Did in the Project:**
 
-- **Macroeconomic Shock Simulation:** Modeled recession scenarios and inflation spikes to assess portfolio risk.
+- **[Macroeconomic Shock Simulation:](https://github.com/MiltonGreat/Macroeconomic-Shock-Simulation.git)** Modeled recession scenarios and inflation spikes to assess portfolio risk.
 - **Credit Risk Impact Analysis:** Studied loan default probabilities under extreme economic conditions.
 - **Risk Measurement:** Applied Value-at-Risk (VaR) and Expected Shortfall modeling to quantify potential losses.
 
