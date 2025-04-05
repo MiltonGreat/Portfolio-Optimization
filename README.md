@@ -36,19 +36,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **Sentiment Analysis & Market Signals:** Applied NLP models to classify news as bullish, bearish, or neutral.
 - **News Impact on Stock Prices:** Conducted event-based analysis to measure stock reactions to breaking news.
 
-### 4. Financial Fraud Detection Beyond Anomalies
-
-**Dataset:** Synthetic Financial Transactions
-
-**Description:** This dataset contains synthetic banking transaction records, providing insights into network-based fraud and financial crime detection.
-
-**What I Did in the Project:**
-
-- **Graph-Based Fraud Detection:** Used Node2Vec and GraphSAGE embeddings to model fraud networks.
-- **Coordinated Fraud Ring Analysis:** Detected collusive behaviors in banking transactions.
-- **Ensemble Learning for Risk Scoring:** Combined Isolation Forests and XGBoost to improve fraud detection accuracy.
-
-### 5. Explainable AI in Finance (XAI)
+### 4. Explainable AI in Finance (XAI)
 
 **Dataset:** Home Credit Default Risk
 
@@ -61,7 +49,7 @@ This repository shows projects that deal with portfolio management, trading stra
 - **[LIME for Model Interpretability:](https://github.com/MiltonGreat/LIME-Model-Interpretability.git)** Applied LIME (Local Interpretable Model-Agnostic Explanations) to validate credit risk predictions.
 - **[Explainability in Credit Decisions:](https://github.com/MiltonGreat/Explainability-in-Credit-Decisions.git)** Used SHAP and LIME to identify which features most contributed to biased outcomes.
 
-### 6. ESG (Environmental, Social, and Governance) Investing
+### 5. ESG (Environmental, Social, and Governance) Investing
 
 **Dataset:** ESG Risk Ratings Dataset
 
