@@ -10,7 +10,7 @@ This repository shows projects that deal with portfolio management, trading stra
 
 **What I Did in the Project:**
 
-- **Monte Carlo Simulations:** Estimated expected returns and risk profiles for different portfolio allocations.
+- **[Monte Carlo Simulations:](https://github.com/MiltonGreat/Monte-Carlo-Simulations.git)** Estimated expected returns and risk profiles for different portfolio allocations.
 - **Risk Management Strategies:** Compared Equal Weight vs. Risk-Parity portfolios to assess diversification benefits.
 
 ### 2. Stress Testing & Scenario Analysis
