@@ -10,7 +10,6 @@ This repository shows projects that deal with portfolio management, trading stra
 
 **What I Did in the Project:**
 
-- **[Optimal Portfolio Construction:](https://github.com/MiltonGreat/Optimal-Portfolio-Constructio.git)** Applied Markowitz Portfolio Theory to allocate assets efficiently.
 - **Monte Carlo Simulations:** Estimated expected returns and risk profiles for different portfolio allocations.
 - **Risk Management Strategies:** Compared Equal Weight vs. Risk-Parity portfolios to assess diversification benefits.
 
