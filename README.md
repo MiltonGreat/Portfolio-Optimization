@@ -57,4 +57,4 @@ This repository shows projects that deal with portfolio management, trading stra
 
 **What I Did in the Project:**
 
-- **ESG Risk Score Prediction:** Built regression models to forecast ESG scores for companies.
+- **[ESG Risk Score Prediction:](https://github.com/MiltonGreat/ESG-Risk-Score.git)** Built regression models to forecast ESG scores for companies.
