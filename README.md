@@ -33,7 +33,7 @@ This repository shows projects that deal with portfolio management, trading stra
 
 **What I Did in the Project:**
 
-- **Sentiment Analysis & Market Signals:** Applied NLP models to classify news as bullish, bearish, or neutral.
+- **[Sentiment Analysis & Market Signals:](https://github.com/MiltonGreat/Sentiment-Analysis-Market-Impact.git)** Applied NLP models to classify news as bullish, bearish, or neutral.
 - **News Impact on Stock Prices:** Conducted event-based analysis to measure stock reactions to breaking news.
 
 ### 4. Explainable AI in Finance (XAI)
